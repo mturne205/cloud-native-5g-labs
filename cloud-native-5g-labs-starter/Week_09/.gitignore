@@ -1,0 +1,6 @@
+# Auto-generated .gitignore
+*.log
+*.pcap
+open5gs-db/
+.DS_Store
+.vscode/

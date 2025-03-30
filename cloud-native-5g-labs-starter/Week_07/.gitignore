@@ -1,0 +1,6 @@
+# Auto-generated .gitignore
+.gitlab/
+*.log
+*.tmp
+.DS_Store
+.vscode/

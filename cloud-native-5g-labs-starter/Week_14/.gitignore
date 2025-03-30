@@ -1,0 +1,6 @@
+# Auto-generated .gitignore
+*.log
+*.tmp
+*.bak
+.vscode/
+.DS_Store

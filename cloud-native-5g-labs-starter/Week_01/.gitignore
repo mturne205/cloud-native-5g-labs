@@ -1,0 +1,7 @@
+# Auto-generated .gitignore
+*.pem
+.aws/
+*.log
+*.tmp
+.DS_Store
+.vscode/

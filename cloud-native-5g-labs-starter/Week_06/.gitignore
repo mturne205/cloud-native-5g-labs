@@ -1,0 +1,5 @@
+# Auto-generated .gitignore
+*.retry
+*.log
+.vscode/
+.DS_Store

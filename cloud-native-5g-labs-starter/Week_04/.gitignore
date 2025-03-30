@@ -1,0 +1,5 @@
+# Auto-generated .gitignore
+.helm/
+*.log
+.DS_Store
+.vscode/

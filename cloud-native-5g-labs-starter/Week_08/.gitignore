@@ -1,0 +1,6 @@
+# Auto-generated .gitignore
+*.log
+prometheus-data/
+grafana-data/
+.DS_Store
+.vscode/

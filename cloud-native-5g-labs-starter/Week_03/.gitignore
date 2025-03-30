@@ -1,0 +1,5 @@
+# Auto-generated .gitignore
+*.log
+.kube/
+.vscode/
+.DS_Store
