@@ -1,0 +1,37 @@
+# ❌ Sensitive Keys
+*.pem
+*.key
+*.crt
+*.aws
+
+# ❌ AWS CLI Credentials (if accidentally copied)
+.aws/
+credentials
+config
+
+# ❌ Local Editor Settings
+.vscode/
+.idea/
+
+# ❌ Python / Docker / Node Output
+__pycache__/
+*.pyc
+node_modules/
+.env
+*.log
+*.tmp
+
+# ❌ OS Metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# ❌ Terraform / Helm Cache
+.terraform/
+*.tfstate
+*.tfstate.backup
+.helm/
+
+# ❌ Backup Files
+*~
+*.swp
