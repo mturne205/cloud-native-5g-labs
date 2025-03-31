@@ -1,9 +1,13 @@
-# Week 12: Capstone Project - Part 2
+# Week 12: EURANSIM + eNodeB/gNodeB sim
 
 ## Objectives
-- Learn and apply core concepts of capstone project - part 2.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Simulate RAN side of 5G
+
+    Deploy UERANSIM to simulate UE and RAN
+
+    Connect to Open5GS AMF
+
+    Observe attach/registration flow
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
