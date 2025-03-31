@@ -1,9 +1,13 @@
-# Week 10: IMS Integration
+# Week 10: Intro to 5G Core with Open5GS
 
 ## Objectives
-- Learn and apply core concepts of ims integration.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Build a basic 5G core using open-source tools
+
+    Install Open5GS in Docker
+
+    Deploy MongoDB, WebUI, AMF/SMF
+
+    Test local core startup
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
