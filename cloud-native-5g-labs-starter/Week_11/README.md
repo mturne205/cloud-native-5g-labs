@@ -1,9 +1,15 @@
-# Week 11: Capstone Project - Part 1
+# Week 11: IMS/VoLTE Stack (Kamailio + RTP + SIPp)
 
 ## Objectives
-- Learn and apply core concepts of capstone project - part 1.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Layer in voice components and simulate IMS core
+
+    Deploy Kamailio
+
+    Configure SIP routing
+
+    Simulate UEs with SIPp
+
+    Test call setup and teardown
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
