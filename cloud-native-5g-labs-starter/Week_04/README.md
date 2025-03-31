@@ -1,9 +1,15 @@
-# Week 04: Helm & GitOps
+# Week 04: Helm & K8s Networking
 
 ## Objectives
-- Learn and apply core concepts of helm & gitops.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Simplify Kubernetes deployment + explore services, DNS, and ingress
+
+    Helm install and templating basics
+
+    Use Helm charts to deploy NGINX
+
+    Ingress controller setup
+
+    Internal/external service communication
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
