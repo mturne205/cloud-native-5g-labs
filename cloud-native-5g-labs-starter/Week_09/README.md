@@ -1,9 +1,15 @@
-# Week 09: Open5GS on K8s
+# Week 09: Observability - Prometheus & Grafana
 
 ## Objectives
-- Learn and apply core concepts of open5gs on k8s.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Monitor container metrics and resource usage
+
+    Deploy Prometheus and Grafana via Docker/Helm
+
+    Add Node Exporter to EC2
+
+    Create dashboards
+
+    Set alerts based on CPU/mem
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
