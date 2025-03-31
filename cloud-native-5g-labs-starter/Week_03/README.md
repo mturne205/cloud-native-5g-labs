@@ -1,9 +1,15 @@
 # Week 03: Kubernetes Fundamentals
 
 ## Objectives
-- Learn and apply core concepts of kubernetes fundamentals.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Orchestrate containers using k3s (lightweight Kubernetes)
+
+    Intro to kubectl, Pods, Deployments
+
+    Set up k3s locally
+
+    Deploy a containerized app
+
+    Explore logs, scaling, and delete workflows
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
