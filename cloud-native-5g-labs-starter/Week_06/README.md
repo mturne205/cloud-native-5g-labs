@@ -1,9 +1,15 @@
-# Week 06: Ansible
+# Week 06: Terraform II + Module Design
 
 ## Objectives
-- Learn and apply core concepts of ansible.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Create reusable Terraform modules
+
+    Refactor infra into modules
+
+    Input/output variables
+
+    Use remote state (S3 backend)
+
+    GitHub repo structure for IaC
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
