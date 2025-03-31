@@ -1,4 +1,4 @@
-# Week 11: IMS/VoLTE Stack (Kamailio + RTP + SIPp)
+# Week 11: IMS/VoLTE Stack (Kamailio + RTP + SIPp) - Week 1
 
 ## Objectives
     Layer in voice components and simulate IMS core
