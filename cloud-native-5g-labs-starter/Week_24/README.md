@@ -1,9 +1,13 @@
-# Week 24: Capstone Expansion / Practice Week 12
+# Week 24: Presentation & Polish Portfolio
 
 ## Objectives
-- Learn and apply core concepts of capstone expansion / practice week 12.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Final documentation, visuals, GitHub cleanup
+
+    README polish
+
+    Diagrams with Mermaid or draw.io
+
+    Create a video walk-through or blog post
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
