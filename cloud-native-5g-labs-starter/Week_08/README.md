@@ -1,9 +1,15 @@
-# Week 08: Monitoring: Prometheus + Grafana
+# Week 08: CI/CD with GitLab Pipelines
 
 ## Objectives
-- Learn and apply core concepts of monitoring: prometheus + grafana.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Automate container builds and deployments
+
+    GitLab Runners (local or EC2)
+
+    .gitlab-ci.yml structure
+
+    Build/push Docker images
+
+    Trigger deployments to test env
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
