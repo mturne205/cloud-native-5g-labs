@@ -1,9 +1,13 @@
-# Week 17: Capstone Expansion / Practice Week 5
+# Week 17: End-to-End Topology Build - Week 3
 
 ## Objectives
-- Learn and apply core concepts of capstone expansion / practice week 5.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Build an integrated 5G + IMS + observability lab
+
+    Compose architecture with Docker or K8s
+
+    Persist logs and metrics
+
+    Wire services together securely
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
