@@ -1,9 +1,15 @@
-# Week 05: Terraform (IaC)
+# Week 05: Terraform I (IaC)
 
 ## Objectives
-- Learn and apply core concepts of terraform (iac).
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Spin up cloud infra using Terraform
+
+    VPCs, subnets, route tables
+
+    Use Terraform to provision EC2
+
+    Create S3 buckets, IAM roles
+
+    Intro to terraform plan, apply, and destroy
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
