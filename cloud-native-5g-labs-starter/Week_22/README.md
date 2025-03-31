@@ -1,9 +1,13 @@
-# Week 22: Capstone Expansion / Practice Week 10
+# Week 22: Cloud-Native Adaptation - Week 2
 
 ## Objectives
-- Learn and apply core concepts of capstone expansion / practice week 10.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Shift from bare EC2 to managed cloud-native services
+
+    ECS or EKS adaptation
+
+    S3 storage
+
+    Use AWS native tools for observability or secrets
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
