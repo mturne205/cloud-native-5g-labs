@@ -1,9 +1,13 @@
-# Week 14: Capstone Expansion / Practice Week 2
+# Week 14: EURANSIM + eNodeB/gNodeB Sim - Week 2
 
 ## Objectives
-- Learn and apply core concepts of capstone expansion / practice week 2.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Simulate RAN side of 5G
+
+    Deploy UERANSIM to simulate UE and RAN
+
+    Connect to Open5GS AMF
+
+    Observe attach/registration flow
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
