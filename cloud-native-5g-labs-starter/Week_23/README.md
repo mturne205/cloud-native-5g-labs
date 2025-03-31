@@ -1,9 +1,11 @@
-# Week 23: Capstone Expansion / Practice Week 11
+# Week 23: Capstone - Rebuild from Scratch
 
 ## Objectives
-- Learn and apply core concepts of capstone expansion / practice week 11.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Rebuild your end-to-end system using IaC and CI/CD
+
+    Clean infra and start fresh
+
+    Terraform + Ansible + CI/CD + Docker + Monitoring
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
