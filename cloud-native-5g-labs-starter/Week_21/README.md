@@ -1,9 +1,13 @@
-# Week 21: Capstone Expansion / Practice Week 9
+# Week 21: Cloud-Native Adaptation - Week 1
 
 ## Objectives
-- Learn and apply core concepts of capstone expansion / practice week 9.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Shift from bare EC2 to managed cloud-native services
+
+    ECS or EKS adaptation
+
+    S3 storage
+
+    Use AWS native tools for observability or secrets
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
