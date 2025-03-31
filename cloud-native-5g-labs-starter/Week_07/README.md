@@ -1,9 +1,15 @@
-# Week 07: GitLab CI/CD
+# Week 07: Ansible + Remote Automation
 
 ## Objectives
-- Learn and apply core concepts of gitlab ci/cd.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Manage EC2 instances using Ansible playbooks
+
+    Ansible inventory, playbooks, modules
+
+    Automate Docker or K8s install remotely
+
+    Variables, handlers, conditionals
+
+    Intro to roles
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
