@@ -1,9 +1,13 @@
-# Week 18: Capstone Expansion / Practice Week 6
+# Week 18: End-to-End Topology Build - Week 4
 
 ## Objectives
-- Learn and apply core concepts of capstone expansion / practice week 6.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Build an integrated 5G + IMS + observability lab
+
+    Compose architecture with Docker or K8s
+
+    Persist logs and metrics
+
+    Wire services together securely
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
