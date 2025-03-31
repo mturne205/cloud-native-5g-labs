@@ -1,9 +1,13 @@
-# Week 19: Capstone Expansion / Practice Week 7
+# Week 19: Advanced Scenarios - Week 1
 
 ## Objectives
-- Learn and apply core concepts of capstone expansion / practice week 7.
-- Complete hands-on labs and validate key functionality.
-- Document lessons, screenshots, and key outcomes.
+    Test real-world workflows
+
+    Scale core components
+
+    Failover simulation
+
+    Session logging and troubleshooting
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
