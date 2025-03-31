@@ -1,13 +1,15 @@
-# Week 12: EURANSIM + eNodeB/gNodeB sim
+# Week 12: IMS/VoLTE Stack (Kamailio + RTP + SIPp) II
 
 ## Objectives
-    Simulate RAN side of 5G
+    Layer in voice components and simulate IMS core
 
-    Deploy UERANSIM to simulate UE and RAN
+    Deploy Kamailio
 
-    Connect to Open5GS AMF
+    Configure SIP routing
 
-    Observe attach/registration flow
+    Simulate UEs with SIPp
+
+    Test call setup and teardown
 
 ## Tools Used
 - (List tools, CLIs, SDKs, or services used)
